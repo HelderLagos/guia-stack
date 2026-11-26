@@ -1,0 +1,4 @@
+{
+  "cleanUrls": true,
+  "headers": [{ "source": "/monte-sua-stack.pdf", "headers": [{ "key": "Content-Disposition", "value": "inline; filename=\"monte-sua-stack.pdf\"" }] }]
+}
